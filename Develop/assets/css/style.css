@@ -1,15 +1,15 @@
-/* Universal Selector */
+/* General Styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Element Selectors */
 body {
     background-color: #d9dcd6;
 }
 
+/* Text Styles */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -19,6 +19,7 @@ p {
     font-size: 16px;
 }
 
+/* Header Styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,7 +36,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,27 +44,16 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
-/* Class Selectors */
+/* Hero BG Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -73,6 +63,7 @@ footer h2 {
     background-position: center;
 }
 
+/* Main Content Styles */
 .content {
     width: 75%;
     display: inline-block;
@@ -97,6 +88,7 @@ footer h2 {
     font-size: 36px;
 }
 
+/* Benefits Sidebar Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +116,7 @@ footer h2 {
     max-width: 150px;
 }
 
+/* Float Styles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -132,4 +125,16 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/* Footer Styles */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
