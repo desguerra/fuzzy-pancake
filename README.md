@@ -30,11 +30,11 @@ Here is the link to [the completed challenge!](https://guides.github.com/feature
 
 ## Screenshots
 
-![screenshot 1 of project](/Develop/assets/images/SS1.png)
+![screenshot 1 of project](./Develop/assets/images/SS1.png)
 
-![screenshot 2 of project](/Develop/assets/images/SS2.png)
+![screenshot 2 of project](./Develop/assets/images/SS2.png)
 
-![screenshot 3 of project](/Develop/assets/images/SS3.png)
+![screenshot 3 of project](./Develop/assets/images/SS3.png)
 
 
 ## Credits
