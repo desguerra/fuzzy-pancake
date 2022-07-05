@@ -30,11 +30,11 @@ Here is the link to [the completed challenge!](https://desguerra.github.io/horis
 
 ## Screenshots
 
-![screenshot 1 of project](assets/images/SS1.png)
+![screenshot 1 of project](assets/images/SS1.PNG)
 
-![screenshot 2 of project](./assets/images/SS2.png)
+![screenshot 2 of project](assets/images/SS2.PNG)
 
-![screenshot 3 of project](./assets/images/SS3.png)
+![screenshot 3 of project](assets/images/SS3.PNG)
 
 
 ## Credits
