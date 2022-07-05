@@ -63,13 +63,14 @@ header nav ul li {
     background-position: center;
 }
 
-/* Main Content Styles */
-.content {
+/* Main Style */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Content Styles in Main */
 .content-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -88,7 +89,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* Benefits Sidebar Styles */
+/* Aside Benefits Sidebar Styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
