@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a feature request challenge. This challenge involved refactoring an existing site to make it more accessible. This project was refactored to include:
+This project is a feature request challenge. This challenge involved refactoring an existing site to **make it more accessible**. This project was refactored to include:
 
 * semantic HTML elements in source code
 * logical structure of HTML elements
@@ -18,7 +18,7 @@ In addition, I have also:
 * deployed live [URL](https://guides.github.com/features/mastering-markdown/)
 * modified project to resemble the design mockup
 
-Here is the link to [the completed challenge!](https://guides.github.com/features/mastering-markdown/).
+Here is the link to [the completed challenge!](https://guides.github.com/features/mastering-markdown/)
 
 
 ## Table of Contents
