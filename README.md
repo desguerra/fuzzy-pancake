@@ -15,10 +15,10 @@ In addition, I have also:
 * fixed links to function correctly
 * organized CSS sheet to follow semantic structure
 * commented CSS file for better readability
-* deployed live [URL](https://guides.github.com/features/mastering-markdown/)
+* deployed live [URL](https://desguerra.github.io/horiseon/)
 * modified project to resemble the design mockup
 
-Here is the link to [the completed challenge!](https://guides.github.com/features/mastering-markdown/)
+Here is the link to [the completed challenge!](https://desguerra.github.io/horiseon/)
 
 
 ## Table of Contents
